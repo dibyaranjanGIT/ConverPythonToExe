@@ -5,7 +5,7 @@ pip install pyinstaller
 pyinstaller add_two.py
 
 ## To keep the window open
-## inside the dist folder
+# inside the dist folder
 shift right click on the folder whree add_two.py file is present
 and then open the pwoershell window
 
