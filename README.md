@@ -10,3 +10,6 @@ shift right click on the folder whree add_two.exe file is present
 and then open the pwoershell window
 
 and then add_two.exe  to run the exe file
+
+# To create single file exe 
+pyisntaller --onefile add_two.py
