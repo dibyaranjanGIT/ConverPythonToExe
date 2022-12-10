@@ -6,7 +6,7 @@ pyinstaller add_two.py
 
 # To keep the window open
 ## inside the dist folder
-shift right click on the folder whree add_two.py file is present
+shift right click on the folder whree add_two.exe file is present
 and then open the pwoershell window
 
 and then add_two.exe  to run the exe file
